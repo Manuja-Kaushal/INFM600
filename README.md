@@ -36,7 +36,7 @@ This data set uses the data from the focal data set and the supporting datasets.
 Analysis
 ---------------
 
-**Do areas having median age(25 to 3) are likely to consume more water and residential energy?**
+**Do areas having median age under 30 are likely to consume more water and residential energy than other age gropus?**
 
 We viewed all the three datasets taken from data.gov and merged it to a single one.
 On basis of median age provided for each zipcodes, we proposed that age might be a factor affecting energy and water consumption of LA city boundaries. 
