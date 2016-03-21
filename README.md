@@ -32,6 +32,14 @@ This data set includes information about the residential energy use (averaged mo
 
 This data set uses the data from the focal data set and the supporting datasets. It consists values of energy and water consumption linked together by zip codes which are of LA city boundaries. The average of water consumption and energy consumption of eight fiscal years is determined and compared against the various age groups residing in different zip code areas of LA.
 
+-----------------
+Data Statistics
+-----------------
+
+------------
+Data Format
+------------
+
 ---------------
 Analysis
 ---------------
