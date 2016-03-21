@@ -35,6 +35,7 @@ This data set uses the data from the focal data set and the supporting datasets.
 ---------------
 Analysis
 ---------------
+We merged the focal dataset () with the two additional datasets on zipcodes. The process documentation for merger can be found in "Workflow Documentation.pdf"
 
 **Do areas having median age under 30 are likely to consume more water and residential energy than other age gropus?**
 
@@ -69,15 +70,20 @@ License
 The data in the INFM600 repository is distributed under a Creative Commons 
 Attribution-NonCommercial-ShareAlike 4.0 International License (see 
 http://creativecommons.org/licenses/by-nc-sa/4.0/).
-   
-	The data is intended for public access and use. Those interested in using the data 
-   	in a commercial context should contact the owners(Chinmay Raote, Manuja Kaushal).
+
+The data including Water Use Average By Zipcode, Average Monthly Residential Energy Usage By Zipcode, 2010 Census Populations By Zipcode is made available for public access and use. 
+
+The data 'Resource_Usage_By_Zipcode' is made available for non-commercial use. Those interested in using the data in a commercial context should contact the owners(Chinmay Raote, Manuja Kaushal)
 
 ----------------
 Acknowledgements
 ----------------
 
    We thank the Data.Gov for providing valuable datasets such as Water Use Average, Average Monthly Residential Energy Usage, 2010 Census Populations by Zipcode.
+   
+   We thank the GroupLens research group at the University of Minnesota (http://www.grouplens.org) for hosting and allowing use of the MovieLens10M dataset in the master dataset and Iván Cantador, Alejandro Bellogín and Ignacio Fernández-Tobías and the Information Retrieval group at Universidad Autonoma de Madrid (http://ir.ii.uam.es) for creating and releasing the master data set.
+
+
 
 ----------
 References
@@ -92,7 +98,7 @@ Data.gov City of Los Angeles (2016) 2010 Census Populations By Zipcode [Data set
 Raote, C., Kaushal, M. (2015). Resource_Usage_By_Zipcode [Data CSV file]. Available from https://github.com/manujakaushal/INFM600/blob/master/Resource_Usage_By_Zipcode.csv.
 
 -------
-Authors
+Credits
 -------
 
 Chinmay Raote
