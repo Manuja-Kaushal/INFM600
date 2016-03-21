@@ -87,20 +87,15 @@ Projecting the energy requirements of the future based on age.</br>
 Files
 -----
 
-*Water Use Average By Zipcode*
-</br>Water_Use_Average_By_Zipcode.csv
+</br>*Water_Use_Average_By_Zipcode.csv*
 
-*Average Monthly Residential Energy Usage By Zipcode*
-</br>Average_monthly_residential_energy_usage_By_zip_code.csv
+</br>*Average_monthly_residential_energy_usage_By_zip_code.csv*
 
-*2010 Census Populations By Zipcode*
-</br>2010_Census_Populations_by_Zip_Code.csv
+</br>*2010_Census_Populations_by_Zip_Code.csv*
 
-*Resource_Usage_By_Zipcode*
-</br>Resource_Usage_By_Zipcode.csv
+</br>*Resource_Usage_By_Zipcode.csv*
 
-*Workflow Documentation*
-</br>Workflow Documentation.pdf
+</br>*Workflow Documentation.pdf*
 
 ------- 
 License
@@ -118,11 +113,7 @@ The data 'Resource_Usage_By_Zipcode' is made available for non-commercial use. T
 Acknowledgements
 ----------------
 
-   We thank the Data.Gov for providing valuable datasets such as Water Use Average, Average Monthly Residential Energy Usage, 2010 Census Populations by Zipcode.
-   
-   We thank the home of the U.S. Government’s open data group for hosting and allowing use of city of Los Angeles dataset. This open source data is made available to public access and use.
-
-
+   We thank the Data.Gov for providing valuable datasets such as Water Use Average, Average Monthly Residential Energy Usage, 2010 Census Populations by Zipcode. We thank the home of the U.S. Government’s open data group for hosting and allowing use of city of Los Angeles dataset.
 
 ----------
 References
