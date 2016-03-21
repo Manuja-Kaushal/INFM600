@@ -41,13 +41,13 @@ Analysis
 We viewed all the three datasets taken from data.gov and merged it to a single one.
 On basis of median age provided for each zipcodes, we proposed that age might be a factor affecting energy and water consumption of LA city boundaries. 
 
-Pre-submission community meeting venues
+Average Usage of Residential Energy
 
-![alt tag](https://github.com/gavishgulati/INFM600/blob/master/meetings.jpg)
+![alt tag](https://github.com/manujakaushal/INFM600/blob/master/Average_Energy_Usage.jpg)
 
-Houses and apartments of senior citizens.
+Average Usage of Water
 
-![alt tag](https://github.com/gavishgulati/INFM600/blob/master/Houses_Apartments.jpg)
+![alt tag](https://github.com/manujakaushal/INFM600/blob/master/Average_Water_Usage.jpg)
 -----
 Files
 -----
