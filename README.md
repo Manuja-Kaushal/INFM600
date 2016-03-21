@@ -96,4 +96,4 @@ Authors
 -------
 
 Chinmay Raote
-Manuja Kaushal
+</br>Manuja Kaushal
