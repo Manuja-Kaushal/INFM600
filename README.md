@@ -36,10 +36,10 @@ This data set uses the data from the focal data set and the supporting datasets.
 Data Statistics
 -----------------
  125 Unique Zip Codes
- </br>19.6-65.3 Median Age Range
- </br>05/06 - 12/13 Fiscal Years Range 
- </br>6.625 - 145.125 Range of Average Consumption of Water in Hundred Cubic Feet
- </br>237.5 - 1956 Range of Average Consumption of Energy in KiloWatt hour
+ </br>Median Age Range : 19.6-65.3
+ </br>Fiscal Years Range : 05/06 - 12/13
+ </br>Range of Average Consumption of Water in Hundred Cubic Feet : 6.625 - 145.125
+ </br>Range of Average Consumption of Energy in KiloWatt hour : 237.5 - 1956
  
  
 ------------
