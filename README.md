@@ -59,7 +59,7 @@ Data Format
 		Zip.Code	Total.Population	Median.Age	Total.Males	Total.Females	Total.Households	Average.Household.Size	Water_FY.05.06 to Water_FY.12.13	Energy_FY.05.06	to Energy_FY.12.13
 
 ---------------
-Analysis
+Research Question
 ---------------
 We merged the focal dataset (2010_Census_Populations_by_Zip_Code.csv) with the two additional datasets(Water_Use_Average_By_Zipcode.csv, Average_monthly_residential_energy_usage_By_zip_code.csv) on zipcodes. The process documentation for merging can be found in "Workflow Documentation.pdf"
 
@@ -75,6 +75,14 @@ The result of this analysis can be used in the following ways:</br>
 • Planned disaster management based on the energy and water consumption based on zip codes. </br>
 • Projecting the energy requirements of the future based on age.</br>
 
+---------------
+Hypothesis
+---------------
+**Null Hyothesis**: There is no relation between the median age and consumption of water and energy resources.
+**Alternate Hypothesis** There exist a relation between the median age and consumption of water and ebnergy resources.
+---------------
+Analysis
+---------------
 **Average Usage of Residential Energy**
 
 ![alt tag](https://github.com/manujakaushal/INFM600/blob/master/Average_Energy_Usage.jpg)
