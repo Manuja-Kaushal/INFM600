@@ -68,10 +68,10 @@ On basis of median age provided for each zipcodes, we proposed that age might be
 
 The overall age would affect the average energy and water consumption in that area. The utilities used by various age groups differ and depict their lifestyle. This has a direct influence on the energy and water consumption. 
 The result of this analysis can be used in the following ways:</br>
-Efficient routing of water and energy resources across these areas. </br>
-Targeted campaigns to conserve energy based on age groups and zip codes. </br>
-Planned disaster management based on the energy and water consumption based on zip codes. </br>
-Projecting the energy requirements of the future based on age.</br>
+• Efficient routing of water and energy resources across these areas. </br>
+• Targeted campaigns to conserve energy based on age groups and zip codes. </br>
+• Planned disaster management based on the energy and water consumption based on zip codes. </br>
+• Projecting the energy requirements of the future based on age.</br>
 
 **Average Usage of Residential Energy**
 
@@ -87,15 +87,15 @@ Projecting the energy requirements of the future based on age.</br>
 Files
 -----
 
-</br>*Water_Use_Average_By_Zipcode.csv*
+**Focal Data:** *2010_Census_Populations_by_Zip_Code.csv*
 
-</br>*Average_monthly_residential_energy_usage_By_zip_code.csv*
+**Additional Data 1:** *Water_Use_Average_By_Zipcode.csv*
 
-</br>*2010_Census_Populations_by_Zip_Code.csv*
+**Additional Data 2:** *Average_monthly_residential_energy_usage_By_zip_code.csv*
 
-</br>*Resource_Usage_By_Zipcode.csv*
+**Merged Data:** *Resource_Usage_By_Zipcode.csv*
 
-</br>*Workflow Documentation.pdf*
+**Workflow Document** *Workflow Documentation.pdf*
 
 ------- 
 License
