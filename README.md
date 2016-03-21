@@ -40,6 +40,18 @@ Data Statistics
 Data Format
 ------------
 
+Average_monthly_residential_energy_usage_By_zip_code
+	FY 05/06 to FY 12/13	Location 1
+
+Water_Use_Average_By_Zipcode
+	FY 05/06 to FY 12/13	Location 1
+
+2010_Census_Populations_by_Zip_Code
+	Zip Code	Total Population	Median Age	Total Males	Total Females	Total Households	Average Household Size
+
+Resource_Usage_By_Zipcode
+	Zip.Code	Total.Population	Median.Age	Total.Males	Total.Females	Total.Households	Average.Household.Size	Water_FY.05.06 to Water_FY.12.13	Energy_FY.05.06	to Energy_FY.12.13
+
 ---------------
 Analysis
 ---------------
