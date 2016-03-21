@@ -10,7 +10,7 @@ Version 1.0 (March 2016)
 Description
 -----------
 
-**Focal Data** http://catalog.data.gov/dataset/2010-census-populations-by-zip-code
+**Focal Data** 
 
 **2010_Census_Populations_by_Zip_Code.csv**
 
@@ -36,8 +36,8 @@ This data set uses the data from the focal data set and the supporting datasets.
 Data Statistics
 -----------------
  125 Unique Zip Codes
- 19.6-65.3 Median Age Range
- 05/06 - 12/13 Fiscal Years Range 
+ </br>19.6-65.3 Median Age Range
+ </br>05/06 - 12/13 Fiscal Years Range 
  
  
 ------------
@@ -88,19 +88,19 @@ Files
 -----
 
 *Water Use Average By Zipcode*
-Water_Use_Average_By_Zipcode.csv
+</br>Water_Use_Average_By_Zipcode.csv
 
 *Average Monthly Residential Energy Usage By Zipcode*
-Average_monthly_residential_energy_usage_By_zip_code.csv
+</br>Average_monthly_residential_energy_usage_By_zip_code.csv
 
 *2010 Census Populations By Zipcode*
-2010_Census_Populations_by_Zip_Code.csv
+</br>2010_Census_Populations_by_Zip_Code.csv
 
 *Resource_Usage_By_Zipcode*
-Resource_Usage_By_Zipcode.csv
+</br>Resource_Usage_By_Zipcode.csv
 
 *Workflow Documentation*
-Workflow Documentation.pdf
+</br>Workflow Documentation.pdf
 
 ------- 
 License
@@ -120,7 +120,7 @@ Acknowledgements
 
    We thank the Data.Gov for providing valuable datasets such as Water Use Average, Average Monthly Residential Energy Usage, 2010 Census Populations by Zipcode.
    
-   We thank the GroupLens research group at the University of Minnesota (http://www.grouplens.org) for hosting and allowing use of the MovieLens10M dataset in the master dataset and Iván Cantador, Alejandro Bellogín and Ignacio Fernández-Tobías and the Information Retrieval group at Universidad Autonoma de Madrid (http://ir.ii.uam.es) for creating and releasing the master data set.
+   We thank the home of the U.S. Government’s open data group for hosting and allowing use of city of Los Angeles dataset. This open source data is made available to public access and use.
 
 
 
