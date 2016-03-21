@@ -78,14 +78,19 @@ Files
 -----
 
 *Water Use Average By Zipcode*
+Water_Use_Average_By_Zipcode.csv
 
 *Average Monthly Residential Energy Usage By Zipcode*
+Average_monthly_residential_energy_usage_By_zip_code.csv
 
 *2010 Census Populations By Zipcode*
+2010_Census_Populations_by_Zip_Code.csv
 
 *Resource_Usage_By_Zipcode*
+Resource_Usage_By_Zipcode.csv
 
 *Workflow Documentation*
+Workflow Documentation.pdf
 
 ------- 
 License
