@@ -20,17 +20,17 @@ This file includes data about Census Profile of General Population and Housing C
 
 **Water_Use_Average_By_Zipcode.csv**
 
-This data set includes information about the residential water use by month averaged for fiscal year. The values in the dataset represent Hundred Cubic Feet (HCF) of water use. It has data values describing water consumption for eight fiscal years such as 05/06, 06/07, 07/08, 08/09, 09/10, 10/11, 11/12 12/13 and zip code of LA city boundaries.
+This data set includes information about the residential water use by month averaged for fiscal year. The values in the dataset represent Hundred Cubic Feet (HCF) of water use. It has data values describing water consumption for eight fiscal years from 2005 to 2013 and zip code of LA city boundaries.
 
 **Average_monthly_residential_energy_usage_By_zip_code.csv**
 
-This data set includes information about the residential energy use (averaged monthly) for each fiscal year since 2003 in kilowatt hours (kWh). It has data values describing energy consumption for eight fiscal years such as 05/06, 06/07, 07/08, 08/09, 09/10, 10/11, 11/12 12/13 and zip code of LA city boundaries.
+This data set includes information about the residential energy use (averaged monthly) for each fiscal year since 2003 in kilowatt hours (kWh). It has data values describing energy consumption for eight fiscal years from 2005 to 2013 and zip code of LA city boundaries.
 
 **Merged Dataset**
 
 **Resource_Usage_By_Zipcode.csv**
 
-This data set uses the data from the focal data set and the supporting datasets. It consists values of energy and water consumption linked together by zip codes which are of LA city boundaries.
+This data set uses the data from the focal data set and the supporting datasets. It consists values of energy and water consumption linked together by zip codes which are of LA city boundaries. The average of water consumption and energy consumption of eight fiscal years is determined and compared against the various age groups residing in different zip code areas of LA.
 
 ---------------
 Analysis
