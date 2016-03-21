@@ -38,6 +38,8 @@ Data Statistics
  125 Unique Zip Codes
  </br>19.6-65.3 Median Age Range
  </br>05/06 - 12/13 Fiscal Years Range 
+ </br>6.625 - 145.125 Range of Average Consumption of Water in Hundred Cubic Feet
+ </br>237.5 - 1956 Range of Average Consumption of Energy in KiloWatt hour
  
  
 ------------
@@ -93,9 +95,9 @@ Files
 
 **Additional Data 2:** *Average_monthly_residential_energy_usage_By_zip_code.csv*
 
-**Merged Data:** *Resource_Usage_By_Zipcode.csv*
+**Merged Data:**       *Resource_Usage_By_Zipcode.csv*
 
-**Workflow Document** *Workflow Documentation.pdf*
+**Workflow Document:** *Workflow Documentation.pdf*
 
 ------- 
 License
