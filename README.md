@@ -89,7 +89,7 @@ Data.gov City of Los Angeles (2016) Average Monthly Residential Energy Usage By 
 
 Data.gov City of Los Angeles (2016) 2010 Census Populations By Zipcode [Data set CSV file]. Retrieved from http://catalog.data.gov/dataset/2010-census-populations-by-zip-code. March 18, 2016
 
-Raote, C., Kaushal, M. (2015). Resource_Usage_By_Zipcode [Data CSV file]. Available from https://github.com/gavishgulati/INFM600/.
+Raote, C., Kaushal, M. (2015). Resource_Usage_By_Zipcode [Data CSV file]. Available from https://github.com/manujakaushal/INFM600/blob/master/Resource_Usage_By_Zipcode.csv.
 
 -------
 Authors
