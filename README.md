@@ -36,6 +36,9 @@ This data set uses the data from the focal data set and the supporting datasets.
 Data Statistics
 -----------------
  125 Unique Zip Codes
+ 19.6-65.3 Median Age Range
+ 05/06 - 12/13 Fiscal Years Range 
+ 
  
 ------------
 Data Format
