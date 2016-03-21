@@ -78,8 +78,9 @@ The result of this analysis can be used in the following ways:</br>
 ---------------
 Hypothesis
 ---------------
-**Null Hyothesis**: There is no relation between the median age and consumption of water and energy resources.
-**Alternate Hypothesis** There exist a relation between the median age and consumption of water and ebnergy resources.
+**Null Hypothesis**: There is no relation between the median age and consumption of water and energy resources.
+**Alternate Hypothesis**: There exist a relation between the median age and consumption of water and energy resources.
+
 ---------------
 Analysis
 ---------------
