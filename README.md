@@ -61,7 +61,7 @@ Data Format
 ---------------
 Analysis
 ---------------
-We merged the focal dataset () with the two additional datasets on zipcodes. The process documentation for merger can be found in "Workflow Documentation.pdf"
+We merged the focal dataset (2010_Census_Populations_by_Zip_Code.csv) with the two additional datasets(Water_Use_Average_By_Zipcode.csv, Average_monthly_residential_energy_usage_By_zip_code.csv) on zipcodes. The process documentation for merging can be found in "Workflow Documentation.pdf"
 
 We viewed all the three datasets taken from data.gov and merged it to a single one.
 On basis of median age provided for each zipcodes, we proposed that age might be a factor affecting energy and water consumption of LA city boundaries. 
