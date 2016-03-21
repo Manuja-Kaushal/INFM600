@@ -67,21 +67,21 @@ On basis of median age provided for each zipcodes, we proposed that age might be
 **Do areas having median age under 30 are likely to consume more water and residential energy than other age gropus?**
 
 The overall age would affect the average energy and water consumption in that area. The utilities used by various age groups differ and depict their lifestyle. This has a direct influence on the energy and water consumption. 
-The result of this analysis can be used in the following ways:
-Efficient routing of water and energy resources across these areas. 
-Targeted campaigns to conserve energy based on age groups and zip codes. 
-Planned disaster management based on the energy and water consumption based on zip codes. 
-Projecting the energy requirements of the future based on age.
+The result of this analysis can be used in the following ways:</br>
+Efficient routing of water and energy resources across these areas. </br>
+Targeted campaigns to conserve energy based on age groups and zip codes. </br>
+Planned disaster management based on the energy and water consumption based on zip codes. </br>
+Projecting the energy requirements of the future based on age.</br>
 
-Average Usage of Residential Energy
+**Average Usage of Residential Energy**
 
 ![alt tag](https://github.com/manujakaushal/INFM600/blob/master/Average_Energy_Usage.jpg)
 
-Average Usage of Water
+**Average Usage of Water**
 
 ![alt tag](https://github.com/manujakaushal/INFM600/blob/master/Average_Water_Usage.jpg)
 
-Exploratory Analysis: From the Average Usage of Residential Energy bar-graph it is visible that people in the 40-50 years age group have higher consumption of energy than younger groups. Also, from the Average Water Usage bar-graph we can observe that people in the 25-40 years age bracket consume more water as compared to older groups. 
+**Exploratory Analysis:** From the Average Usage of Residential Energy bar-graph it is visible that people in the 40-50 years age group have higher consumption of energy than younger groups. Also, from the Average Water Usage bar-graph we can observe that people in the 25-40 years age bracket consume more water as compared to older groups. 
 
 -----
 Files
